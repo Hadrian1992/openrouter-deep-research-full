@@ -1,6 +1,6 @@
 {
-  "name": "@terminals-tech/openrouter-agents",
-  "version": "1.5.0",
+  "name": "openrouter-deep-research-hadrian-full",
+  "version": "1.0.0",
   "description": "OpenRouter MCP server for research agents",
   "main": "src/server/mcpServer.js",
   "bin": {
